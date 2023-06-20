@@ -17,9 +17,7 @@ def str_counter(my_string):
     print(my_dict)
 
 
-print()
 
-print()
 
 
 
